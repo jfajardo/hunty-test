@@ -34,3 +34,14 @@ El objetivo principal del proyecto es proporcionar una API que permita recibir m
 
 El proyecto se puede configurar y ejecutar en un servidor para que esté disponible como un servicio que maneje y responda a los mensajes recibidos desde Telegram de manera automática.
 
+### Despliegue
+
+La aplicación está alojada en Railway, una plataforma de alojamiento en la nube. Puedes acceder a la aplicación a través de este enlace: [https://hunty-test-production.up.railway.app/](https://hunty-test-production.up.railway.app/). 
+
+## TelegramBot
+
+Hemos creado un bot en Telegram llamado @HuntyTestGPTBot. Puedes probarlo directamente en Telegram buscando este nombre de usuario. El bot utiliza nuestra aplicación para generar respuestas basadas en el procesamiento del lenguaje natural.
+
+## Documentación
+
+Hemos utilizado Swagger para documentar los dos puntos finales de nuestra API. Puedes consultar la documentación completa en el siguiente enlace: [https://hunty-test-production.up.railway.app/docs](https://hunty-test-production.up.railway.app/docs). La documentación te proporcionará información detallada sobre cómo interactuar con nuestra API y qué respuestas esperar.
