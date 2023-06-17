@@ -1,0 +1,9 @@
+fastapi==0.95.2
+requests==2.31.0
+uvicorn==0.22.0
+mangum==0.17.0
+openai==0.27.8
+boto3==1.26.154
+pytest==7.3.2
+uvicorn==0.22.0
+httpx==0.24.1
